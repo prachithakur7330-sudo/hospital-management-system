@@ -1,0 +1,4 @@
+# Copy to db.properties and fill in, or set HMS_DB_URL / HMS_DB_USER / HMS_DB_PASSWORD.
+db.url=jdbc:mysql://localhost:3306/hms?allowPublicKeyRetrieval=true&useSSL=false
+db.user=root
+db.password=
